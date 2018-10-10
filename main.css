@@ -1,0 +1,53 @@
+#header {
+    width: 100%;
+    height: 800px;
+    background-image: url('img/wood.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.logo {
+    margin-left: 20px;
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 2.5rem;
+}
+
+.nav-one nav {
+   background: transparent;
+ 
+}
+.nav-two nav {
+    background: transparent;
+    
+}
+
+.typo h3 {
+    margin-top: 100px;
+    padding-left: 350px;
+}
+
+.typo p {
+    text-align: center;
+}
+
+.typo .btn {
+    margin-top: 30px;
+    margin-left: 388px;
+}
+
+ li {
+    display: inline-block;
+}
+
+.hr {
+   height: 3px;
+   
+}
+
+
+.footer {
+margin-top: 440px;
+margin-left: 50px;
+font-size: 1.3rem;
+}
